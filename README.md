@@ -16,9 +16,11 @@
 
 - 📝 I regularly learn something new related to Web Development
 
-- 💬 Ask me about **JavaScript, ReactJS, NextJS, SASS, Git**
+- 🤝 Looking forward to collaborate with peolpe with same intrest
 
 - 📫 How to reach me **mrdarshanpagar@gmail.com**
+
+- 💬 Ask me about **JavaScript, ReactJS, NextJS, SASS, Git**
 
 - ⚡ Fun fact :- Front End is LOVE.
 
