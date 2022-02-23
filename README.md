@@ -78,7 +78,7 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdarshanpagar&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdarshanpagar&layout=compact&theme=tokyonight"
     alt="mrdarshanpagar" /></p>
 
 <br>
