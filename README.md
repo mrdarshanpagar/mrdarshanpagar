@@ -12,7 +12,7 @@
 
 <p><img align="right" src="./animation_500_kxa883sd.gif" alt="mrdarshanpagar" /></p>
 
-- 🌱 I’m currently learning about BackEnd and Express.js
+- 🌱 I’m currently learning about Back End and Express.js
 
 - 📝 I regularly learn something new related to Web Development
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mrdarshanpagar@gmail.com**
 
-- ⚡ Fun fact :- FrontEnd is LOVE.
+- ⚡ Fun fact :- Front End is LOVE.
 
 <br>
 
