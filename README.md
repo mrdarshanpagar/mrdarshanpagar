@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mrdarshanpagar@gmail.com**
 
-- 💬 Ask me about **JavaScript, ReactJS, NextJS, SASS, Git**
+- 💬 Ask me about **JavaScript, Express.js, Spring Boot, Git**
 
 - ⚡ Fun fact :- Front End is LOVE.
 
